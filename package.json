@@ -1,0 +1,17 @@
+{
+  "name": "monogo-javascript-challenge",
+  "version": "1.0.0",
+  "description": "Monogo JavaScript Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config ./jest.config.json"
+  },
+  "author": "Rafał Węgliński",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
